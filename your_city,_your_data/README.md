@@ -58,3 +58,9 @@ http://s.barcampphilly.org/presentations/760
 
 - That's how far behind we are!
 - If we don't take charge, we'll be left behind
+
+# Questions
+
+- This crime mapper started as an open source project: http://www.phillypolice.com/crime-maps-stats
+- Gripe: voter information/registration is difficult
+  - Philly 311 app
