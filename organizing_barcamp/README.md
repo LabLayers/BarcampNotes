@@ -1,11 +1,21 @@
 # Building Barcamp
 
+http://s.barcampphilly.org/presentations/804
+
+- Speaker:Your Organizers!
+- Contact Info: @barcampphilly
+- Description: Come chat with us about what goes into building an unconference like BarCamp: What #?, What Time? How many $$
+- Format: Discussion
+- Room: F70
+- Time: 2014-11-15 12:15 PM
+
+## Basics
+
 - Need a board!
 - Chain of people interested in volunteering
 - Reach out to folks
 - It's not magic
 - Can happen anytime anyone can put in the effort to do it
-
 
 ## Team
 
