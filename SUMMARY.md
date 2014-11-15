@@ -9,4 +9,5 @@
 * [Your City, Your Data](your_city,_your_data/README.md)
 * [Building Barcamp](organizing_barcamp/README.md)
 * [How To Be More Creative](how_to_be_more_creative/README.md)
+* [Emerging Web Technologies](google_analytics_mistakes/README.md)
 
