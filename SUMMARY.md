@@ -7,4 +7,5 @@
    * [Post-Launch](post-launch/README.md)
    * [Conclusion](you_are_not_the_user/conclusion.md)
 * [Your City, Your Data](your_city,_your_data/README.md)
+* [Building Barcamp](organizing_barcamp/README.md)
 
