@@ -9,7 +9,7 @@ http://s.barcampphilly.org/presentations/759
 - Room: F50
 - Time: 2014-11-15 02:15 PM
 
-## Creativity
+# Creativity
 
 > the ability to transcend traditional ideas, rules, patterns, relationships, or the like, and to create meaningful new ideas, forms, methods, interpretations, etc.; originality, progressiveness, or imagination - http://dictionary.com
 
@@ -118,34 +118,58 @@ http://s.barcampphilly.org/presentations/759
 - Can't think about positives and negatives at the same time
 
 
-## The Six Thinking Hats (Edward de Bono)
+# The Six Thinking Hats (Edward de Bono)
 
-  - **The White Hat** - Only the facts
-    - What do you know about
-    - What are the facts
-    - What you need/want to know
-    - Where do you go to find out hte information
-  - **Red Hat** - Our Feelings
-    - Feeling now
-    - Solution best based on feelions
-    - Prejudices
-    - Gut feelings
-  - **Black hat** - Devils 'advocate
-    - Things to be cautious about
-    - Where to be careful
-    - Difficulties
-    - Why this doesn't work
-  - **Yellow Hat** - Glass Half Full
-    - Good about this
-    - Positive outcome
-    - How this could work
-    - Value of this
-  - **Green Hat** - New ideas
-    - Create another way to do this
-    - How to solve this prolem
-  - **Blue Hat** - Process
-    - Summary of everything
-    - What's next
-    - Action plan
+## **The White Hat** - Only the facts
 
-# Conclusion
+- What do you know about
+- What are the facts
+- What you need/want to know
+- Where do you go to find out hte information
+
+## **Red Hat** - Our Feelings
+
+- Feeling now
+- Solution best based on feelings
+- Prejudices
+- Gut feelings
+
+## **Black hat** - Devils' Advocate
+
+- Things to be cautious about
+- Where to be careful
+- Difficulties
+- Why this doesn't work
+
+## **Yellow Hat** - Glass Half Full
+
+- Good about this
+- Positive outcome
+- How this could work
+- Value of this
+
+## **Green Hat** - New Ideas
+
+- Create another way to do this
+- How to solve this problem
+
+## **Blue Hat** - Process
+
+- Summary of everything
+- What's next
+- Action plan
+
+# Questions
+
+- Drawing it out on a whiteboard!
+- People will follow by example - start throwing bad ideas (set bar low and working the way up)
+- Ask for feedback while in progress
+  - Stop being so invested in your project
+- Dribbble and Behance = art porn
+  - Seeing something will trigger something
+- Google Diverging Thinking Problems
+- Creativity can be measured
+  - More you do it, stronger it becomes
+- Podcast: you are not so smart
+- Right brain/left brain is a myth
+- Connections - you use it or lose it

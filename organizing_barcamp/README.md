@@ -126,3 +126,4 @@ http://s.barcampphilly.org/presentations/804
   - Money is NOT the object
   - You could charge a high fee or find sponsorships
   - Kickstarting? Why not!
+- 
